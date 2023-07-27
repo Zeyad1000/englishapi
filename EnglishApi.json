@@ -1,0 +1,104 @@
+{
+    "quotes": [
+        {
+            "id": 1,
+            "author": "Albert Einstein",
+            "quote": "Imagination is more important than knowledge."
+        },
+        {
+            "id": 2,
+            "author": "Maya Angelou",
+            "quote": "I've learned that people will forget what you said, people will forget what you did, but people will never forget how you made them feel."
+        },
+        {
+            "id": 3,
+            "author": "Martin Luther King Jr.",
+            "quote": "Darkness cannot drive out darkness; only light can do that. Hate cannot drive out hate; only love can do that."
+        },
+        {
+            "id": 4,
+            "author": "Oscar Wilde",
+            "quote": "Be yourself; everyone else is already taken."
+        },
+        {
+            "id": 5,
+            "author": "Eleanor Roosevelt",
+            "quote": "No one can make you feel inferior without your consent."
+        },
+        {
+            "id": 6,
+            "author": "Mark Twain",
+            "quote": "If you tell the truth, you don't have to remember anything."
+        },
+        {
+            "id": 7,
+            "author": "Mahatma Gandhi",
+            "quote": "Be the change that you wish to see in the world."
+        },
+        {
+            "id": 8,
+            "author": "Steve Jobs",
+            "quote": "Innovation distinguishes between a leader and a follower."
+        },
+        {
+            "id": 9,
+            "author": "Coco Chanel",
+            "quote": "In order to be irreplaceable one must always be different."
+        },
+        {
+            "id": 10,
+            "author": "Nelson Mandela",
+            "quote": "The greatest glory in living lies not in never falling, but in rising every time we fall."
+        },
+        {
+            "id": 11,
+            "author": "Vincent Van Gogh",
+            "quote": "I am seeking, I am striving, I am in it with all my heart."
+        },
+        {
+            "id": 12,
+            "author": "Walt Disney",
+            "quote": "All our dreams can come true, if we have the courage to pursue them."
+        },
+        {
+            "id": 13,
+            "author": "Maya Angelou",
+            "quote": "Try to be a rainbow in someone's cloud."
+        },
+        {
+            "id": 14,
+            "author": "Abraham Lincoln",
+            "quote": "I'm a success today because I had a friend who believed in me and I didn't have the heart to let him down."
+        },
+        {
+            "id": 15,
+            "author": "J.K. Rowling",
+            "quote": "It is our choices, Harry, that show what we truly are, far more than our abilities."
+        },
+        {
+            "id": 16,
+            "author": "Mother Teresa",
+            "quote": "Spread love everywhere you go. Let no one ever come to you without leaving happier."
+        },
+        {
+            "id": 17,
+            "author": "Audrey Hepburn",
+            "quote": "Nothing is impossible, the word itself says 'I'm possible'!"
+        },
+        {
+            "id": 18,
+            "author": "Winston Churchill",
+            "quote": "Success is not final, failure is not fatal: It is the courage to continue that counts."
+        },
+        {
+            "id": 19,
+            "author": "Bob Marley",
+            "quote": "The truth is, everyone is going to hurt you. You just got to find the ones worth suffering for."
+        },
+        {
+            "id": 20,
+            "author": "Albert Camus",
+            "quote": "In the midst of winter, I found there was, within me, an invincible summer."
+        }
+    ]
+}
